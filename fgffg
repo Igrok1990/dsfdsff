@@ -1,0 +1,10 @@
+   git init
+      git add .
+      git commit -m "Initial commit"
+      git remote add origin https://github.com/your-username/slot-machine-game.git
+      git push -u origin master
+   file:///C:/Users/user/Documents/slot-machine-game/index.html
+file:///C:/Users/user/Documents/slot-machine-game/styles.cs.html
+file:///C:/Users/user/Documents/slot-machine-game/script.js.html
+
+
